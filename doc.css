@@ -1,1 +1,7 @@
 /* Le code CSS spécifique à la page de documentation */
+nav {
+    background-color: aqua;
+}
+nav ul {
+    display: flex;
+}
